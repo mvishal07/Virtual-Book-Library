@@ -1,0 +1,30 @@
+.book-details-card{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.booktitle{
+    color: rgb(233, 25, 25);
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.desc{
+    color: rgb(27, 27, 27);
+    font-family: roboto;
+}
+
+.add-btn{
+    border: 0px;
+    border-radius: 7px;
+    width: 50%;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+}

@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    background-color: rgb(217, 195, 240);
+    justify-content: space-between;
+}
+
+.title{
+    margin-left: 20px;
+}
+
+.link{
+ text-decoration: none;
+ margin-right: 20px;
+ color: rgb(243, 61, 61);
+ font-weight: bold;
+ border: 1px solid #000000;
+ padding: 10px;
+ border-radius: 7px;
+}
+
+.link1{
+    text-decoration: none;
+}
